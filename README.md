@@ -1,4 +1,4 @@
-# Tailwind CSS básico
+# Tailwind CSS básico con vue3
 
 Una instalación básica para empezar a utilizar tailwindCSS con vue3 utilizando el options api pero sin cli.
 
